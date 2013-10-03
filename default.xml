@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="github" fetch="git://github.com/" />
+	<default revision="master" remote="github" />
+
+	<project path="gerrit" name="glacefullife/gerrit">
+	</project>
+	<project path="gerrit-i18n-ja" name="glacefullife/gerrit-i18n-ja"></project>
+</manifest>
